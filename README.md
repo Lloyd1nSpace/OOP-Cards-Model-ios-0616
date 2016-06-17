@@ -100,7 +100,7 @@ Consider the following example when building your `description` method:
 
 ```
 2015-10-01 16:22:30.422 OOP-Cards-Model[6488:163010] FISCardDeck
-count: 52
+count: 52s
 cards:
   ♠A  ♠2  ♠3  ♠4  ♠5  ♠6  ♠7  ♠8  ♠9  ♠10  ♠J  ♠Q  ♠K
   ♥A  ♥2  ♥3  ♥4  ♥5  ♥6  ♥7  ♥8  ♥9  ♥10  ♥J  ♥Q  ♥K
